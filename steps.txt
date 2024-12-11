@@ -1,0 +1,17 @@
+cd ..\react-app\myapp\
+npx create-react-app myapp
+npm start
+
+delete src default folder
+create another src folder
+craate App.js file
+craate index.js file
+craate App.css file (copy from github)
+
+create omdb api from https://www.omdbapi.com/
+fetch the data
+display the demo static data
+crate MovieCard.jsx
+display all api data
+implement search functionality
+
