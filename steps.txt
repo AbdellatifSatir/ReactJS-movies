@@ -14,4 +14,3 @@ display the demo static data
 crate MovieCard.jsx
 display all api data
 implement search functionality
-
